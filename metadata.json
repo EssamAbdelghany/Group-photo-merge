@@ -1,0 +1,5 @@
+{
+  "name": "Group Photo Merge AI",
+  "description": "An application that uses AI to seamlessly add a missing person into a group photograph. Upload a group photo and a photo of the individual to merge them into one.",
+  "requestFramePermissions": []
+}
